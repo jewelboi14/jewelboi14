@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! My name is Michael and i am an iOS Software Engineer<br>🔭  Currently looking for job<br>🌱 Passionate at design and user experience
+Hey there! My name is Michael and i am an iOS Software Engineer<br>🌱 Passionate at design and user experience
 
 
 ## 🌐 Socials:
